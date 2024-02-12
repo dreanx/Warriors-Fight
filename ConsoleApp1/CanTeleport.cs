@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     internal class CanTeleport : Teleports
     {
-        public string teleport()
+        public string teleport() 
         {
             return "Teleports Away";
         }
